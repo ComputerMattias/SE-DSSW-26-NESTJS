@@ -134,3 +134,4 @@ See `src/data/data.types.ts` for the full shapes. Summary:
   fails with a generic error rather than a helpful 400
 
 This project was developed in VS code and then uploaded directly to github.
+Completed with the help of LLMs.
