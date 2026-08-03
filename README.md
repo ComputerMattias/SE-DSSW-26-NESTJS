@@ -132,3 +132,5 @@ See `src/data/data.types.ts` for the full shapes. Summary:
   `experiment.service.ts`
 - No input validation pipes (e.g. `class-validator`) yet — a bad request body currently
   fails with a generic error rather than a helpful 400
+
+This project was developed in VS code and then uploaded directly to github.
